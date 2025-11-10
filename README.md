@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<!DOCTYPE html5>
 <html>
  <head>
   <title>Novi Gladii</title>
