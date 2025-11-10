@@ -1,24 +1,22 @@
 
 <!DOCTYPE html>
 <html>
-<head>
+ <head>
   <title>Novi Gladii</title>
   <link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet">
   <link rel="icon" type="image/x-icon" href="https://cdn.glitch.global/2081a181-839f-46ca-b325-4626e9656279/imagem_2025-06-12_212609504.png?v=1749774370795">
   <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  * { box-sizing: border-box }
+ </head>
   
-body {
+<body>
    font-family: 'ABeeZee';
   min-height: 100vh;
   margin: 0;
   display: grid;
   grid-template-rows: auto 1fr auto;
-}
   
 header {
   background-color: #7bd1d4;
